@@ -1,0 +1,445 @@
+body {
+    background: #f7f7f7;
+    display: flex;
+    justify-content: center;
+
+}
+
+#yo {
+    position: absolute;
+    width: 400px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+
+    text-align: center;
+
+    color: #ff8c00;
+}
+
+#p1 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 95px;
+    top: 261px;
+}
+#p1:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#p2 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 150px;
+    top: 261px;
+}
+#p2:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#p3 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 205px;
+    top: 261px; 
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
+#p3:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#p4 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 550px;
+    top: 261px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
+#p4:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#p5 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 605px;
+    top: 261px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
+#p5:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#p6 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 660px;
+    top: 261px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
+#p6:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#home {
+    position: absolute;
+    width: 149px;
+    height: 36px;
+    left: 95px;
+    top: 40px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+
+    text-align: center;
+
+    color: #EEEEEE;
+}
+
+#guest {
+    position: absolute;
+    width: 149px;
+    height: 36px;
+    left: 550px;
+    top: 40px;
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+
+    text-align: center;
+
+    color: #EEEEEE;
+}
+
+#box1 {
+    position: absolute;
+    width: 155px;
+    height: 120px;
+    left: 95px;
+    top: 120px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 140px;
+    /* or 141% */
+
+    text-align: center;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #F94F6D;
+    background-color: black;
+}
+
+#box2 {
+    position: absolute;
+    width: 155px;
+    height: 120px;
+    left: 550px;
+    top: 120px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 140px;
+    /* or 141% */
+
+    text-align: center;
+
+    color: #F94F6D;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: black;
+}
+
+#newG {
+    position: absolute;
+    width: 105px;
+    height: 55px;
+    top: 320px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
+#newG:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#box3 {
+    position: absolute;
+    width: 800px;
+    height: 400px;
+    top: 130px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    background-color: rgb(8, 1, 80);
+}
+
+#box4 {
+    position: absolute;
+    width: 60px;
+    height: 45px;
+    left: 205px;
+    top: 320px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 47px;
+    /* or 141% */
+
+    text-align: center;
+
+    color: #F94F6D;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: black;
+}
+
+#box5 {
+    position: absolute;
+    width: 60px;
+    height: 45px;
+    left: 665px;
+    top: 320px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 47px;
+    /* or 141% */
+
+    text-align: center;
+
+    color: #F94F6D;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: black; 
+}
+
+#box6 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 80px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 80px;
+    line-height: 165px;
+    /* or 141% */
+
+    text-align: center;
+
+    color: #F94F6D;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: black; 
+}
+
+#fh {
+    color: #fff6f6;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 90px;
+    top: 300px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-size: 30px;
+}
+
+#fg {
+    color: #fff6f6;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 550px;
+    top: 300px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-size: 30px;
+}
+
+#foulsh {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 275px;
+    top: 325px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
+
+#foulsh:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#foulsg {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 480px;
+    top: 325px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
+
+#foulsg:hover{
+    background-color: #0400fc;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#shot {
+    color: #EEEEEE;
+    font-family: 'Verdana';
+    font-style: normal;
+}
+
+#reset {
+    position: absolute;
+    width: 70px;
+    height: 45px;
+    top: 250px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
+
+#b {
+    width: 70px;
+    height: 70px;
+    margin-top: 59px;
+    border-radius: 8px;
+}
+.buttonz{
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #070148;
+    color: #9AABD8;
+}
